@@ -61,7 +61,7 @@ echo "<a><i class='$class_name'></i>$filename</a>";
 ## Resources
 
 - [Atom](https://github.com/file-icons/atom), file specific icons for improved visual grepping.
-- [Markdown Browser Plus](https://github.com/websemantics/markdown-browser-plus), Github flavoured, local file browser for viewing your project's markdown documentation files.
+- [Markdown Browser Plus](https://github.com/websemantics/markdown-browser-plus), Github flavoured, local file browser for viewing markdown documentation files.
 
 ## Support
 
