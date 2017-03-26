@@ -58,6 +58,8 @@ Use the class name to generate html, for example
 echo "<a><i class='$class_name'></i>$filename</a>";
 ```
 
+Check out - [Markdown Browser Plus](https://github.com/websemantics/markdown-browser-plus) to see implementation details.
+
 ## Resources
 
 - [Atom File Icons](https://github.com/file-icons/atom), file specific icons for improved visual grepping.
