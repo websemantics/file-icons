@@ -14,7 +14,8 @@ use Websemantics\FileIcons\Icon\IconTables;
 
 class FileIcons
 {
-    private static $css  = __DIR__ . '/../assets/css/file-icons.css';
+    /* This is probably for the right way to do it! */
+    private static $css  =  '/vendor/websemantics/file-icons/assets/css/file-icons.css';
 
     /**
      * File icons database helper class instance.
