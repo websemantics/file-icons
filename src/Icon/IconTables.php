@@ -59,7 +59,7 @@ class IconTables
       protected function test($pattern, $subject)
       {
         if(($p = substr($pattern, strlen($pattern) - 2)) === '/g'){
-          return @preg_match_all("$p/", $subject);
+          return @preg_match_all($pattern, $subject);
         }
         return @preg_match($pattern, $subject);
       }
