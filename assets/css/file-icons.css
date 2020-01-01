@@ -1,5 +1,5 @@
 /*
- | File Icons 
+ | File Icons
  | @link https://github.com/file-icons
  | @author Daniel Brooker https://github.com/DanBrooker
  */
@@ -7,7 +7,7 @@
 /* ----------------------------[ Colors ]---------------------------------- */
 
 /*============================================================================*
-	PALETTE	
+	PALETTE
 	Base16 colours from https://github.com/chriskempson/base16
 /*============================================================================*/
 .light-red:before {
@@ -194,6 +194,7 @@
 .mobile-icon:before       { font-family: FontAwesome; font-size: 13px; content: "\f10b"; font-size: 20px; top: 2px; }
 .moon-icon:before         { font-family: FontAwesome; font-size: 13px; content: "\f186"; font-size: 16px; top: 1px; }
 .music-icon:before        { font-family: FontAwesome; font-size: 13px; content: "\f001"; font-size: 15px; }
+.icon-file-pdf:before     { font-family: FontAwesome; font-size: 13px; content: "\f1c1"; font-size: 15px; }
 .print-icon:before        { font-family: FontAwesome; font-size: 13px; content: "\f02f"; font-size: 15px; top: 2px; }
 .recycle-icon:before      { font-family: FontAwesome; font-size: 13px; content: "\f1b8"; font-size: 15px; top: 2px; }
 .rss-icon:before          { font-family: FontAwesome; font-size: 13px; content: "\f143"; font-size: 16px; top: 2px; }
